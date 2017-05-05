@@ -1,6 +1,6 @@
 {
   "name": "babel-preset-thriller",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Babel preset for Thriller projects",
   "repository": "https://github.com/ezekielchentnik/thriller",
   "author": "Ezekiel Chentnik",
